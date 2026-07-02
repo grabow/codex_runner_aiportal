@@ -145,6 +145,16 @@ anderes Modell aus der angezeigten Liste aus.
 Der Modellname kann in der ueber `/model` angezeigten Liste fehlen. Das ist
 kein Fehler und kein Grund, ein anderes Modell auszuwaehlen.
 
+## Permissions fuer Agentic Coding
+
+Wenn du zuegig mit Agentic Coding arbeiten moechtest, waehle unten in Codex bei
+`Permissions` die Einstellung `Full Access` aus. Dadurch kann Codex Dateien
+bearbeiten und notwendige Befehle ohne staendige Rueckfragen ausfuehren.
+
+Verwende `Full Access` nur in Projekten und Verzeichnissen, denen du vertraust.
+In diesem Modus erhaelt Codex weitreichenden Zugriff auf Dateien, Befehle und
+das Netzwerk.
+
 ## Was das Skript macht
 
 Das Skript erstellt oder aktualisiert:
