@@ -13,6 +13,8 @@ Profil `aiportal`.
 
 ## Zugangsdaten erzeugen
 
+**Wichtig: Eine VPN-Verbindung zur Hochschule ist zwingend notwendig.**
+
 Erzeuge zuerst deinen persoenlichen API-Key im Student-Portal:
 
 ```text
