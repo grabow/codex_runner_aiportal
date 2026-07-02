@@ -122,8 +122,7 @@ Das Skript fragt nach:
 2. Modellname
 
 Beim Modellnamen wird `EA1_Labor_GPT-5.5` vorgeschlagen. Mit Enter
-uebernimmst du den Standard. Falls du einen anderen Modellnamen erhalten hast,
-kannst du ihn stattdessen eingeben.
+uebernimmst du den Standard. Aendere diesen voreingestellten Modellnamen nicht.
 
 ## Automatischer Start von Codex
 
@@ -136,6 +135,15 @@ Antwort erscheint, funktioniert die Verbindung zum AI Portal.
 
 Gib anschliessend `/exit` ein und druecke Enter, um Codex CLI zu verlassen.
 Danach endet auch das Setup-Skript und das Setup-Fenster wird geschlossen.
+
+## Modell nicht wechseln
+
+Verwende in Codex nicht die Modellauswahl ueber `/model`. Das vom Setup
+voreingestellte Modell `EA1_Labor_GPT-5.5` muss aktiv bleiben. Waehle kein
+anderes Modell aus der angezeigten Liste aus.
+
+Der Modellname kann in der ueber `/model` angezeigten Liste fehlen. Das ist
+kein Fehler und kein Grund, ein anderes Modell auszuwaehlen.
 
 ## Was das Skript macht
 
